@@ -1,0 +1,73 @@
+body{
+    background-color: burlywood;
+}
+.container{
+    background-color: white;
+    max-width: 768px;
+}
+input {
+    text-align: right;
+}
+h1{
+    color: black; 
+    text-align: center;
+    font-size: xx-large;
+    padding-bottom: 30px;
+}
+p{
+    color: black;
+    text-align: justify;
+    font-size: medium;
+}
+a{
+    font-size: xx-large;
+    color:black
+}
+#formulaire{
+    background-color: lightslategrey;
+    border-top: 100px;
+}
+#title-f{
+    color: black;
+    text-align: center;
+    font-size: x-large
+}
+#non-f{
+    background-color: burlywood;
+}
+#nom{
+    padding-left: 100px ;
+    margin-left: 200px;
+}
+#prenom{
+    padding-left: 100px ;
+    margin-left: 180px;
+}
+#telephone{
+    padding-left: 100px ;
+    margin-left: 80px;
+}
+#email{
+    padding-left: 100px ;
+    margin-left: 197px;
+}
+#qualite{
+    padding-left: 100px ;
+    margin-left: 73px;
+}
+#bouton1{
+    padding-left:200px;
+    padding-right: 190px;
+    margin-left: 156px;
+}
+#bouton2{
+    margin-left:200px;
+    padding-left:50px ;
+    padding-right:50px ;
+     }
+#bouton3{
+    margin-left: -4px;
+    padding-left: 52px;
+    padding-right: 52px;
+}
+     
